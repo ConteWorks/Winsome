@@ -1,0 +1,8 @@
+//per compilare il progetto:
+javac -cp ./gson-2.8.9.jar *.java
+
+//per eseguire il server:
+java -cp ./gson-2.8.9.jar: WinsomeServer
+
+//per eseguire il client
+java WinsonClient

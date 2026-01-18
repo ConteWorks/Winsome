@@ -1,0 +1,8 @@
+{"nickname":"utente8","password":"ut8","tag1":"vacanze","tag2":"canto","tag3":"orologio","tag4":"aereo","tag5":"mondo","following":[],"followers":["utente2","utente7"],"feed":[]}
+{"nickname":"utente7","password":"ut7","tag1":"persona","tag2":"canto","tag3":"orologio","tag4":"aereo","tag5":"mondo","following":["utente8"],"followers":[],"feed":[]}
+{"nickname":"utente4","password":"ut4","tag1":"cantiere","tag2":"lago","tag3":"pane","tag4":"vino","tag5":"harrypotter","following":[],"followers":["utente3"],"feed":[]}
+{"nickname":"utente5","password":"ut5","tag1":"cantina","tag2":"casa","tag3":"operaio","tag4":"ufo","tag5":"harrypotter","following":[],"followers":["utente3"],"feed":[]}
+{"nickname":"utente1","password":"ut1","tag1":"mare","tag2":"montagna","tag3":"nuoto","tag4":"palestra","tag5":"piscina","following":["utente2"],"followers":["utente3","utente2"],"feed":[]}
+{"nickname":"utente2","password":"ut2","tag1":"mare","tag2":"canto","tag3":"ballo","tag4":"leggere","tag5":"gatto","following":["utente8","utente1"],"followers":["utente1"],"feed":[]}
+{"nickname":"utente6","password":"ut6","tag1":"oro","tag2":"incenso","tag3":"mirra","tag4":"ufo","tag5":"harrypotter","following":[],"followers":["utente3"],"feed":[]}
+{"nickname":"utente3","password":"ut3","tag1":"cavallo","tag2":"mare","tag3":"pane","tag4":"vino","tag5":"harrypotter","following":["utente1","utente4","utente5","utente6"],"followers":[],"feed":[]}
